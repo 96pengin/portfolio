@@ -1,0 +1,10 @@
+.sample {
+    position: relative;
+}
+
+.sample .bun {
+    position: absolute;
+    top: 100px;
+    left: 130px;
+
+}
